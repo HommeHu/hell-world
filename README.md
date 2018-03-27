@@ -1,2 +1,3 @@
 # hell-world
-a new player
+一个新玩家
+刚来gitbub学习.....
